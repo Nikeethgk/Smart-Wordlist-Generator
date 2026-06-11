@@ -1,6 +1,6 @@
 # Smart-Wordlist-Generator
 
-                                          #Smart Wordlist Generator
+                                      
 
 A Python-based, intelligent wordlist generator designed for **authorized security testing, penetration testing, and fuzzing**. 
 
