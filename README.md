@@ -20,7 +20,7 @@ Instead of using generic, massive wordlists, this tool scrapes a target organiza
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/YOUR_USERNAME/smart-wordlist-gen.git
+   git clone https://github.com/Nikeethgk/smart-wordlist-gen.git
    cd smart-wordlist-gen
    ```
 
